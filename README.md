@@ -5,6 +5,8 @@ Script en **Batch (Windows)** para limpiar archivos temporales, logs y restos de
 Diseñado para ejecutarse de forma segura, sin afectar archivos del sistema ni configuraciones críticas del juego.
 
 <img width="1112" height="618" alt="image" src="https://github.com/user-attachments/assets/bfa158e2-3e87-4608-b6ed-5abc2ca359a0" />
+<img width="1111" height="617" alt="image" src="https://github.com/user-attachments/assets/1dd00b24-c19f-43a2-8b39-7751d562606d" />
+
 
 ---
 
