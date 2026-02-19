@@ -2,6 +2,10 @@
 
 Script avanzado en **Batch** diseñado para optimizar el rendimiento de **DayZ** eliminando archivos temporales, registros de errores y volcados de memoria acumulados.
 
+<img width="744" height="488" alt="image" src="https://github.com/user-attachments/assets/12dbf768-3984-4aaa-939a-ef594800a031" />
+<img width="769" height="350" alt="image" src="https://github.com/user-attachments/assets/06e731a1-6eef-4625-a928-45fde0e96c26" />
+<img width="714" height="328" alt="image" src="https://github.com/user-attachments/assets/1b9e51ff-0d6b-4e0e-86ac-a652ed3a9b58" />
+
 ---
 
 ## 📌 Descripción
