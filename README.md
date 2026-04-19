@@ -8,7 +8,8 @@
 > Este script en **Batch (CMD)** es la navaja suiza para mantener tu carpeta local de DayZ **libre de basura digital**. Elimina de forma segura los archivos de volcado de memoria (`crash dumps`) y registros (`RPT`) que saturan el motor del juego.
 
 <p align="center">
-  <img src="https://via.placeholder.com/600x200/0d1117/ffffff?text=[Vista+Previa+del+Menu+ASCII+Aquí]" alt="DayZ Cleaner Pro Menu Preview" />
+  <img width="768" height="493" alt="image" src="https://github.com/user-attachments/assets/f542d47f-c1bc-432c-b3f2-07f5002c6b62" />
+
 </p>
 
 ---
